@@ -6,7 +6,7 @@
 
 ***
 
-# DevStart---Capgemini
+# DevStart - FloripamaisTec
 
 Resumo do projeto
 
@@ -96,6 +96,11 @@ let notasComputadas = notas.slice(1,4)
  # PROJETO 02
 
 </div>
+
+
+***
+
+# DevStart - FloripamaisTec
 
 ***
 
